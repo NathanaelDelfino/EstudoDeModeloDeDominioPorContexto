@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zrX0RqH5P3UdpvdrSaqpvzRaVepBE9netB6u12Lo2eXKPx+FO+xFCKPkVe9HSKAddS4X3vrrqviCCBJFhSgaOQ==",
+  "success": true,
+  "projectFilePath": "/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/nathanaeldelfino/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

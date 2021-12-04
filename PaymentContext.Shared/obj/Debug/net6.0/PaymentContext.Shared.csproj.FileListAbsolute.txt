@@ -1,0 +1,12 @@
+/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Shared/bin/Debug/net6.0/PaymentContext.Shared.deps.json
+/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Shared/bin/Debug/net6.0/PaymentContext.Shared.dll
+/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Shared/bin/Debug/net6.0/ref/PaymentContext.Shared.dll
+/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Shared/bin/Debug/net6.0/PaymentContext.Shared.pdb
+/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Shared/obj/Debug/net6.0/PaymentContext.Shared.csproj.AssemblyReference.cache
+/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Shared/obj/Debug/net6.0/PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Shared/obj/Debug/net6.0/PaymentContext.Shared.AssemblyInfoInputs.cache
+/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Shared/obj/Debug/net6.0/PaymentContext.Shared.AssemblyInfo.cs
+/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Shared/obj/Debug/net6.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
+/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Shared/obj/Debug/net6.0/PaymentContext.Shared.dll
+/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Shared/obj/Debug/net6.0/ref/PaymentContext.Shared.dll
+/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Shared/obj/Debug/net6.0/PaymentContext.Shared.pdb
