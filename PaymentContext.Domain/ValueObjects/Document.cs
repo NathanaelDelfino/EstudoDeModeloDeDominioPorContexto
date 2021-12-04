@@ -40,7 +40,5 @@ namespace PaymentContext.Domain.ValueObjects
         private bool ValidarCPF(){ return true;}
         private bool ValidarCNPJ(){return true;}
 
-
-
     }
 }
