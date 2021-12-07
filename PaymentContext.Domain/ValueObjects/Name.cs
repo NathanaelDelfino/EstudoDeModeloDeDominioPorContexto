@@ -16,7 +16,7 @@ namespace PaymentContext.Domain.ValueObjects
         {
             FirstName = firstName;
             LastName = lastName;
-
+            
             AddNotifications(new CreateNameContract(this));
         }
     }

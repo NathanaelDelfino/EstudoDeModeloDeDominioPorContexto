@@ -19,6 +19,20 @@ namespace PaymentContext.Domain.ValueObjects
             Type = type;
         } 
 
+        public Document(string number)
+        {
+            Number = Regex.Replace(number, "[0-9]","");
+        } 
+
+
+        private EDocumentType GetDocumentTypeByNumberLength(string number){
+            if(Regex.Replace(number, "[0-9]","").Length == 11)
+                return EDocumentType.CPF ;
+            if(Regex.Replace(number, "[0-9]","").Length == 14)
+                return EDocumentType.CNPJ;
+            
+            return EDocumentType.Desconhecido;
+        }
         
         private bool Valid(){
            
@@ -32,6 +46,7 @@ namespace PaymentContext.Domain.ValueObjects
                     retorno = ValidarCNPJ();
                     break;
                 default:
+                    return false;
                     break;
             }
             return retorno;

@@ -2,10 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using PaymentContext.Shared.ValueObjects;
 
 namespace PaymentContext.Domain.ValueObjects
 {
-    public class Address
+    public class Address : ValueObject
     {
         public Address(string street, string number, string neighborhood, string city, string state, string country, string zipCode)
         {
