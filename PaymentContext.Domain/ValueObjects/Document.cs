@@ -35,21 +35,15 @@ namespace PaymentContext.Domain.ValueObjects
         }
         
         private bool Valid(){
-           
-            var retorno = false;
             switch (Type)
             {
                 case EDocumentType.CPF:
-                    retorno = ValidarCPF();
-                    break;
+                    return ValidarCPF();
                 case EDocumentType.CNPJ:
-                    retorno = ValidarCNPJ();
-                    break;
+                    return ValidarCNPJ();
                 default:
                     return false;
-                    break;
             }
-            return retorno;
         }
 
         private bool ValidarCPF(){ return true;}
