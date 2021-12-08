@@ -22,7 +22,7 @@ namespace PaymentContext.Tests.ValueObjects
         }
         
         [TestMethod]
-        public void ShouldReturnSucessWhenFirstNameIsInValid(){
+        public void ShouldReturnErrorWhenFirstNameIsInValid(){
             //Arrange 
             var name = new Name("","");
             //Act
