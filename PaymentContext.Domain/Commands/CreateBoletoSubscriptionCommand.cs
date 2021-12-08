@@ -37,7 +37,7 @@ namespace PaymentContext.Domain.Commands
         public string Country { get; set; }
         public string ZipCode { get; set; }
 
-        public void Validade()
+        public void Validate()
         {
             var name = new Name(FirstName, LastName); 
             var document = new Document(Document);

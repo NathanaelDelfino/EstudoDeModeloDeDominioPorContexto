@@ -7,6 +7,6 @@ namespace PaymentContext.Shared.Commands
 {
     public interface ICommand
     {
-        void Validade();
+        void Validate();
     }
 }

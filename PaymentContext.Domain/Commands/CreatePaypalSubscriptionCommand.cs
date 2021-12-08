@@ -2,11 +2,14 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Flunt.Notifications;
 using PaymentContext.Domain.Enums;
+using PaymentContext.Domain.ValueObjects;
+using PaymentContext.Shared.Commands;
 
 namespace PaymentContext.Domain.Commands
 {
-    public class CreatePaypalSubscriptionCommand
+    public class CreatePaypalSubscriptionCommand : Notifiable<Notification>, ICommand
     {
         
         public string FirstName { get; set; }
@@ -32,5 +35,14 @@ namespace PaymentContext.Domain.Commands
         public string State { get; set; }
         public string Country { get; set; }
         public string ZipCode { get; set; }
+
+        public void Validate()
+        {
+            var name = new Name(FirstName, LastName); 
+            var document = new Document(Document);
+            
+            AddNotifications(name, document);
+
+        }
     }
 }
