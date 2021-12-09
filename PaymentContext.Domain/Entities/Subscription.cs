@@ -33,5 +33,10 @@ namespace PaymentContext.Domain.Entities
             Active = false;
             LastUpdateDate = DateTime.Now;
         }
+
+        internal void AddPayment(BoletoPayment payment)
+        {
+            
+        }
     }
 }

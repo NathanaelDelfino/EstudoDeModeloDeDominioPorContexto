@@ -16,7 +16,7 @@ namespace PaymentContext.Tests.Command
             //Arrange 
             var command = new CreatePaypalSubscriptionCommand();
             //Act //Assert
-            Assert.AreEqual(false, command.IsValid);
+            Assert.IsTrue(command.IsValid);
         }
    
     }
