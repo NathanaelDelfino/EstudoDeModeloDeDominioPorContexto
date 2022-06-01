@@ -6,7 +6,6 @@
 /Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Tests/bin/Debug/net6.0/PaymentContext.Tests.deps.json
 /Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Tests/bin/Debug/net6.0/PaymentContext.Tests.runtimeconfig.json
 /Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Tests/bin/Debug/net6.0/PaymentContext.Tests.dll
-/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Tests/bin/Debug/net6.0/ref/PaymentContext.Tests.dll
 /Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Tests/bin/Debug/net6.0/PaymentContext.Tests.pdb
 /Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
 /Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
@@ -101,3 +100,4 @@
 /Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Tests/bin/Debug/net6.0/PaymentContext.Domain.pdb
 /Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Tests/bin/Debug/net6.0/PaymentContext.Shared.pdb
 /Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Tests/bin/Debug/net6.0/Flunt.dll
+/Users/nathanaeldelfino/_dev/CSharp/ModelandoDominiosRicos/PaymentContext/PaymentContext.Tests/obj/Debug/net6.0/refint/PaymentContext.Tests.dll
